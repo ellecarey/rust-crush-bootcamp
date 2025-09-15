@@ -1,5 +1,0 @@
-# Rust Backend
-
-```
-cargo run 
-```
