@@ -6,9 +6,9 @@
     Our learning snippets will be in the `examples` directory.
     You can run them one by one like this:
     
-    cargo run --example <example_filename>
+    cargo run --bin <example_filename>
     
-    e.g., `cargo run --example 01_hello_cargo`
+    e.g., `cargo run --bin 01_hello_cargo`
 */
 
 fn main() {
