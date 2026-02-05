@@ -8,7 +8,9 @@
 - Variables exist only within their scope (the {...} block they are in).
 */
 fn main() { 
-    let mut x;
-    x = 5; 
+    let mut x: i32 =5;
+    println!("The value of x is: {}", x);
+
+    x = 6;
     println!("The value of x is: {}", x);
 }
